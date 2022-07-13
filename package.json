@@ -1,0 +1,24 @@
+{
+  "name": "color_cellxgene_spatial",
+  "version": "1.0.0",
+  "description": "Color schemes for spatial data at cellxgene",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijinbio/color_cellxgene_spatial.git"
+  },
+  "keywords": [
+    "Cellxgene",
+    "Color",
+    "scheme"
+  ],
+  "author": "Jin Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijinbio/color_cellxgene_spatial/issues"
+  },
+  "homepage": "https://github.com/lijinbio/color_cellxgene_spatial#readme"
+}
