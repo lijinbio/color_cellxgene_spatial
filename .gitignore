@@ -1,0 +1,6 @@
+.sw?
+.*.sw?
+.DS_Store
+.nfs*
+*.pyc
+node_modules

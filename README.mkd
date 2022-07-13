@@ -1,0 +1,4 @@
+# Color schemes for spatial data at cellxgene
+
+Cellxgene uses `d3.interpolateCool` from [d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) for color schemes visualizing gene expressions. Using the template, this repository is to customize the color generation for spatial data.
+
