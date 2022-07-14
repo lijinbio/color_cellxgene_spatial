@@ -1,11 +1,11 @@
 import {interpolateRgbBasis} from "d3-interpolate";
 
 export var scheme = [
-  '#f0f0f0', '#f0f0f0', // grey
-  '#f0f0f0', '#f0f0f0',
-  '#f0f0f0', '#f0f0f0',
-  '#f0f0f0', '#f0f0f0',
-  '#f0f0f0',
+  '#d9d9d9', '#d9d9d9', // grey
+  '#d9d9d9', '#d9d9d9',
+  '#d9d9d9', '#d9d9d9',
+  '#d9d9d9', '#d9d9d9',
+  '#d9d9d9',
 
   '#f7fbff', '#deebf7', // blue gradient
   '#c6dbef', '#9ecae1',
