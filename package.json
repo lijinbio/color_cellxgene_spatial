@@ -1,6 +1,6 @@
 {
   "name": "color_cellxgene_spatial",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Color schemes for spatial data at cellxgene",
   "type": "module",
   "files": [
