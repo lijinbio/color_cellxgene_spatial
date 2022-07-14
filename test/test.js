@@ -6,8 +6,10 @@ describe("Exports", function() {
     assert.deepStrictEqual(Object.keys(d3).sort(), [
       "interpolateBlues",
       "interpolateBluesRert",
+      "interpolateGrayBlueRert",
       "schemeBlues",
-      "schemeBluesRert"
+      "schemeBluesRert",
+      "schemeGrayBlueRert"
     ]);
   });
 });
